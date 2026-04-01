@@ -1,6 +1,5 @@
 en:
-
-###This plugin NEVER overwrites the config when you reboot!
+This plugin NEVER overwrites the config when you reboot!
 The config is generated ONCE when you first start the plugin.
 After that, the plugin ONLY reads the config.
 
@@ -31,7 +30,7 @@ oxide.grant group admin stacksizecontroller.admin
 4. The plugin will read the file and apply it — it will NOT overwrite it!
 
 ru:
-###Этот плагин НИКОГДА не перезаписывает конфиг при перезагрузке!
+Этот плагин НИКОГДА не перезаписывает конфиг при перезагрузке!
 Конфиг генерируется ОДИН раз при первом запуске.
 После этого плагин ТОЛЬКО читает конфиг.
 

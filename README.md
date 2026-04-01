@@ -59,3 +59,6 @@ oxide.grant group admin stacksizecontroller.admin
 2. Измените нужные значения
 3. Введите: stack.reload
 4. Плагин прочитает файл и применит — НЕ перезапишет!
+
+
+PS: Сообщайте если будет баг.

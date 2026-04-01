@@ -1,4 +1,5 @@
 en:
+
 ###This plugin NEVER overwrites the config when you reboot!
 The config is generated ONCE when you first start the plugin.
 After that, the plugin ONLY reads the config.
